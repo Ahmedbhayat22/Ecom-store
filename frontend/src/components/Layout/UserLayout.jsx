@@ -1,14 +1,13 @@
-import Header from "../common/Header"
+import Header from "../common/Header";
 
-const Userlayout = () => {
+const UserLayout = () => {
   return (
-   <>
-   {/* Header */}
-   <Header/>
-   {/* Main content */}
-   {/* Footer */}
-   </>
+    <>
+    {/* Header */}
+    <Header />
+    {/* Main content */}
+    {/* Footer */}
+    </>
   )
 }
-
-export default Userlayout
+export default UserLayout;
